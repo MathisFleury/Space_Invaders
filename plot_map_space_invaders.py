@@ -15,7 +15,7 @@ bokeh_width, bokeh_height = 500,400
 # Load the data
 data_invaders = pd.read_csv('/Users/mfleury/POSTDOC/LIBRAIRY/Space_Invaders/1_input/dataframes/space_invaders.csv')
 
-api_key = 'AIzaSyCqE4Sxap0crRpiy6RYYSoyhyvqMkShG4U'
+api_key = ''
 
 def plot_map_space_invaders():
     # Create a figure and axis
